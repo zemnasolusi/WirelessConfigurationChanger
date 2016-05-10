@@ -1,0 +1,53 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit">
+
+    <Style x:Key="baseButton" TargetType="{x:Type Button}">
+        <Setter Property="Margin" Value="4" />
+        <Setter Property="Padding" Value="8 4" />
+    </Style>
+    
+    <Style x:Key="baseGrid" TargetType="{x:Type Grid}">
+        <Setter Property="Margin" Value="4" />
+    </Style>
+
+    <Style x:Key="mainGrid" TargetType="{x:Type Grid}">
+        <Setter Property="Margin" Value="0 0 0 0" />
+    </Style>
+
+    <Style x:Key="baseListBox" TargetType="{x:Type ListBox}">
+        <Setter Property="Margin" Value="4" />
+    </Style>
+
+    <Style x:Key="iconButton" TargetType="{x:Type Button}">
+        <Setter Property="Width" Value="40" />
+        <Setter Property="Margin" Value="4" />
+        <Setter Property="Background" Value="{x:Null}" />
+        <Setter Property="BorderBrush" Value="{x:Null}" />
+    </Style>
+
+    <Style x:Key="baseGroupBox" TargetType="{x:Type GroupBox}">
+        <Setter Property="Margin" Value="4" />
+    </Style>
+
+    <Style x:Key="baseTextBlock" TargetType="{x:Type TextBlock}">
+        <Setter Property="Margin" Value="4" />
+    </Style>
+
+    <Style x:Key="baseComboBox" TargetType="{x:Type ComboBox}">
+        <Setter Property="Margin" Value="4" />
+    </Style>
+
+    <Style x:Key="baseMaskedTextBox" TargetType="{x:Type xctk:MaskedTextBox}">
+        <Setter Property="Margin" Value="4" />
+    </Style>
+
+    <Style x:Key="baseStatusBar" TargetType="{x:Type StatusBar}">
+        <Setter Property="Foreground" Value="White" />
+    </Style>
+    
+    <Style x:Key="baseTextBox" TargetType="{x:Type TextBox}">
+        <Setter Property="Margin" Value="4" />
+    </Style>
+
+</ResourceDictionary>
