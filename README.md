@@ -11,6 +11,8 @@ Automatic Wireless Configuration Changer by SSID
 ## Installation
 Download setup file and install.
 
+[Go to download page](https://github.com/zemna/WirelessConfigurationChanger/releases)
+
 ## How to use
 
 ### Connect to Access Point
