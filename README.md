@@ -1,5 +1,7 @@
 # WirelessConfigurationChanger
 
+[![Build Status](https://travis-ci.org/zemna/WirelessConfigurationChanger.svg?branch=master)](https://travis-ci.org/zemna/WirelessConfigurationChanger)
+
 Automatic Wireless Configuration Changer by SSID
 
 ![Wireless Configuration Changer Main Screen](https://cloud.githubusercontent.com/assets/2906960/16141747/ff583582-3488-11e6-86bc-2a334ad6aa4f.jpg)
